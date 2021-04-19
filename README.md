@@ -1,4 +1,6 @@
-### Hi, I'm Daniel. A self-taught person passionate about technologies from different areas, mainly in the development area. 👋
+### Hi, I'm Daniel 👋. 
+
+### A self-taught person passionate about technologies from different areas, mainly in the development area. 
 
 - 🔭 I’m currently working at Wake Up Cobranças as CTO.
 - 😎 I have experience in several programming languages ​​like Node.js (JavaScript), PHP, C, Python. And also in relational databases Postgres and Mysql.
