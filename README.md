@@ -1,4 +1,4 @@
-### Hi, I'm Daniel 👋. 
+### Hi, I'm Daniel 👋
 
 ### A self-taught person passionate about technologies from different areas, mainly in the development area. 
 
