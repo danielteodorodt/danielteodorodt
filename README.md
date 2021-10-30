@@ -2,7 +2,7 @@
 
 ### A self-taught person passionate about technologies from different areas, mainly in the development area. 
 
-- 🔭 I’m currently working at Wake Up Cobranças as CTO.
+- 🔭 I’m currently working at Wake Up Cobranças and Secretária Naty (Naty.app) as CTO.
 - 😎 I have experience in several programming languages ​​like Node.js (JavaScript), PHP, C, Python. And also in relational databases Postgres and Mysql.
 - 🌱 I’m currently learning JavaScript, NoSql, Kurbenetes at Google Cloud.
 - ✔ I work with programming for 5 years, I have had experiences with several frameworks focused on the backend.
