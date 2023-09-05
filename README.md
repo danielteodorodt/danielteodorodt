@@ -2,7 +2,7 @@
 
 ### A self-taught person passionate about technologies from different areas, mainly in the development area. 
 
-- 🔭 I’m currently working at Pinguim App as Developer Full Stack.
+- 🔭 I’m currently working at Natura/Avon (Sysmap Solutions) as Developer Full Stack.
 - 😎 I have experience in several programming languages and frameworks ​​like Node.js (JavaScript and Typescript), PHP, C, Python, NoSql, Kurbenetes at Google Cloud. And also in relational databases Postgres and Mysql.
 - ✔ I work with programming for 5 years, I have had experiences with several frameworks focused on the backend.
 - 🐱‍👤 I really like the security area, especially in database failures and managed servers.
